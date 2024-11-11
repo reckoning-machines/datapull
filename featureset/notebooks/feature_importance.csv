@@ -1,0 +1,27 @@
+,features,coef,group
+0,High Yield,0.1175161823533517,index
+1,Treasuries,-0.12297100196445589,index
+2,Vanguard Small-Cap,0.02214873244341876,index
+3,Vanguard Value,0.017897360254792976,index
+4,Vanguard Growth,0.1697154308954469,index
+5,Russell 2000,0.012760003620344249,index
+6,S&P 500,0.10681263400783449,index
+7,GT10,-0.022944940519178468,bond market
+8,GT2,0.19389136676139573,bond market
+9,GT3m,0.04068186638447174,bond market
+10,Fed Funds,0.35233359604217734,bond market
+11,GT10-GT2,0.103334218326097,bond market
+12,5-Year Breakeven,0.4337393246422637,bond market
+13,BofA US High Yield,-0.29159748745558045,credit commodity and currency
+14,USD Euro,0.014145082558849508,credit commodity and currency
+15,KC Eco Index,0.006729255761184913,economic
+16,Banks Tightening,-0.004303184202805499,economic
+17,Retail Sales,-0.07432611882192665,economic
+18,Retail Trade,0.009131106913240379,economic
+19,Deposits,0.006198608212573202,credit commodity and currency
+20,WTI Crude,0.700586406820131,credit commodity and currency
+21,S&P 500 3-Month Volatility,-0.043880883618261396,credit commodity and currency
+22,Consumer Loans,-0.007895415775969186,credit commodity and currency
+23,Gasoline,-0.4165220902857323,credit commodity and currency
+24,Case-Shiller,-0.050576899205645134,credit commodity and currency
+25,Unemployment Rate,0.5242172198712642,economic
